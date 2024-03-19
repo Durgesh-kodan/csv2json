@@ -6,7 +6,7 @@ require('dotenv').config();
 
 // Route to handle CSV to JSON conversion
 app.get('/convert', (req, res) => {
-  const csvFile = 'path/to/your/csv/file.csv'; // Replace with the actual path to your CSV file
+  const csvFile = process.env.CSV_FILE_PATH;
 
   fs.readFile(csvFile, 'utf8', async (err, data) => {
     if (err) {
