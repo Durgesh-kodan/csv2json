@@ -1,0 +1,58 @@
+[
+  {
+    "name": {
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    "age": 25,
+    "address": {
+      "line1": "123 Main St",
+      "line2": "",
+      "city": "New York",
+      "state": "NY"
+    },
+    "gender": "male"
+  },
+  {
+    "name": {
+      "firstName": "Jane",
+      "lastName": "Smith"
+    },
+    "age": 30,
+    "address": {
+      "line1": "456 Elm St",
+      "line2": "",
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "gender": "female"
+  },
+  {
+    "name": {
+      "firstName": "Michael",
+      "lastName": "Johnson"
+    },
+    "age": 40,
+    "address": {
+      "line1": "789 Oak St",
+      "line2": "",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "gender": "male"
+  },
+  {
+    "name": {
+      "firstName": "Emily",
+      "lastName": "Davis"
+    },
+    "age": 35,
+    "address": {
+      "line1": "101 Pine St",
+      "line2": "",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "female"
+  }
+]
